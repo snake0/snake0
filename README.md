@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on books
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning to use vim proficiently
 - 👯 I’m looking to collaborate on writing code
 - 🤔 I’m looking for help with writing code & looking for a job & writing in English
 - 💬 Ask me about how to fly
